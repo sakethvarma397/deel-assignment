@@ -56,7 +56,11 @@ MOCK_OPTIONS_API_DELAY
 MOCK_FILTER_API_DELAY
 ```
 
-### Images
+### Images/Clips
+
+
+https://github.com/sakethvarma397/deel-assignment/assets/29940063/de538bad-cfb1-448a-b299-42d63fa9b8dc
+
 
 
 # How to run
