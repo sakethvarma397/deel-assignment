@@ -1,0 +1,38 @@
+.results-container {
+  width: 105%;
+  height: 200px;
+  overflow: scroll;
+}
+
+ul {
+  list-style-type: none;
+  padding-inline-start: 0px;
+}
+
+.results-container li {
+  width: 100%;
+  padding: 4px 6px;
+  margin-left: 2px;
+  font-size: 1.25rem;
+}
+
+.results-container li:hover {
+  background-color: aliceblue;
+}
+
+.results-container li.active {
+  background-color: aliceblue;
+}
+
+.autocomplete-container {
+  width: 400px;
+  margin: 40px;
+}
+
+input {
+  height: 100%;
+  width: 100%;
+  margin-left: 5px;
+  padding: 6px;
+  font-size: 1.25rem;
+}
